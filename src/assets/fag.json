@@ -1,0 +1,32 @@
+{
+	"INF3280": {
+		"mandetoryExersices": "Nei",
+		"numberOfLecturesAWeek": 2,
+		"semester": "Vår",
+		"exam": "Hjemmeeksamen",
+		"failPercent": 4,
+		"failPercentYear": 2017,
+		"url": "https://www.uio.no/studier/emner/matnat/ifi/INF3280/",
+		"description": "Mobility issues can exert many unwanted effects, but they don’t have to limit your access to your own home. The installation of a stair lift will allow you navigate your home with ease."
+	},
+	"IN1000": {
+		"mandetoryExersices": "Ja",
+		"numberOfLecturesAWeek": 1,
+		"semester": "Høst",
+		"exam": "Skriftlig eksamen",
+		"failPercent": 4,
+		"failPercentYear": 2017,
+		"url": "https://www.uio.no/studier/emner/matnat/ifi/IN1000/",
+		"description": "Progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge."
+	},
+	"IN1030": {
+		"mandetoryExersices": "Ja",
+		"numberOfLecturesAWeek": 1,
+		"semester": "Høst",
+		"exam": "Skriftlig eksamen",
+		"failPercent": 4,
+		"failPercentYear": 2017,
+		"url": "https://www.uio.no/studier/emner/matnat/ifi/IN1030/",
+		"description": "Ikke progge ikke progge ikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke progge."
+	}
+}
