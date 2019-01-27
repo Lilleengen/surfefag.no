@@ -6,13 +6,14 @@
     <div class="about-course">
       <h2>{{ this.$route.params.id }}</h2>
       <div class="detailed">
+        <span><strong>{{ courses[this.$route.params.id].name }}</strong></span>
         <span>Obligatoriske innleveringer: <strong>{{ courses[this.$route.params.id].mandetoryExersices }}</strong></span>
         <span>Forelesninger i uka: <strong>{{ courses[this.$route.params.id].numberOfLecturesAWeek }}</strong></span>
         <span>Eksamen <strong>{{ courses[this.$route.params.id].exam }}</strong></span>
         <span>Strykprosent: <strong>{{ courses[this.$route.params.id].failPercent }}%</strong> ({{ courses[this.$route.params.id].failPercentYear }})</span>
       </div>
       <p>{{ courses[this.$route.params.id].description }}</p>
-      <a href="#">Emneside</a>
+      <a :href="courses[this.$route.params.id].url">Emneside</a>
     </div>
     <router-link class="right-arrow" to="/">
       <span>Surf videre</span>

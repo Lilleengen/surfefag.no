@@ -4,12 +4,14 @@
       <table>
         <tr>
           <th>Emnekode</th>
+          <th>Navn</th>
           <th>Semester</th>
           <th>Eksamen</th>
           <th>Strykprosent</th>
         </tr>
-        <tr v-for="courseId in Object.keys(courses)">
+        <tr v-for="courseId in Object.keys(courses)" v-bind:key="courseId">
           <td>{{ courseId }}</td>
+          <td>{{ courses[courseId].name }}</td>
           <td>{{ courses[courseId].semester }}</td>
           <td>{{ courses[courseId].exam }}</td>
           <td>{{ courses[courseId].failPercent }}%</td>

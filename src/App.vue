@@ -12,10 +12,10 @@
         <router-link class="type-list" to="/list">
           <img src="./assets/type-list.svg" alt="view as list" />
         </router-link>
-        </a>
       </div>
     </div>
     <router-view/>
+    <div class="footer">Forslag og tilbakemeldinger? Send mail til <a href="nach@blindern.casa">nach@blindern.casa</a></div>
   </div>
 </template>
 
@@ -91,7 +91,7 @@ export default {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 100vh;
+    height: calc(100vh - 30px);
   }
   .middle-part .about-course{
     width: 500px;
@@ -165,5 +165,9 @@ export default {
   }
   td{
     font-weight: 300;
+  }
+  .footer {
+    width: 100%;
+    text-align: center;
   }
 </style>

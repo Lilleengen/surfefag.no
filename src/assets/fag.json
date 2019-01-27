@@ -1,32 +1,68 @@
 {
-	"INF3280": {
+	"AST1010": {
+		"name": "Astronomi - en kosmisk reise",
 		"mandetoryExersices": "Nei",
 		"numberOfLecturesAWeek": 2,
-		"semester": "Vår",
+		"semester": "Vår og høst",
+		"exam": "Skriftlig eksamen",
+		"failPercent": 5.3,
+		"failPercentYear": 2018,
+		"url": "https://www.uio.no/studier/emner/matnat/astro/AST1010/index.html",
+		"description": "Det gis en enkel og populær oversikt over fagområdet astronomi og astrofysikk.Vi legger vekt på å hele tiden inkludere siste nytt i et fagfelt som utvikler seg raskt."
+	},
+	"HIS2422": {
+		"name": "Historie på film",
+		"mandetoryExersices": "Ja",
+		"numberOfLecturesAWeek": 1,
+		"semester": "Vår og høst",
 		"exam": "Hjemmeeksamen",
-		"failPercent": 4,
-		"failPercentYear": 2017,
-		"url": "https://www.uio.no/studier/emner/matnat/ifi/INF3280/",
-		"description": "Mobility issues can exert many unwanted effects, but they don’t have to limit your access to your own home. The installation of a stair lift will allow you navigate your home with ease."
+		"failPercent": 2,
+		"failPercentYear": 2018,
+		"url": "https://www.uio.no/studier/emner/hf/iakh/HIS2422/index.html",
+		"description": "Filmmediet har i årtier hatt en unik evne til å både skape og endre historisk bevissthet. Det finnes mange ulike audio-visuelle fremstillinger av fortiden, dette kan være alt fra autentiske filmopptak til dokumentarer, dramaserier, propagandafilmer og spillefilmer fra hele verden. I dette emnet er det kommersielle periodefilmer som skal analyseres og forstås."
 	},
-	"IN1000": {
+	"MUS2006": {
+		"name": "Music and body movements",
 		"mandetoryExersices": "Ja",
 		"numberOfLecturesAWeek": 1,
 		"semester": "Høst",
-		"exam": "Skriftlig eksamen",
-		"failPercent": 4,
+		"exam": "Semesteroppgave",
+		"failPercent": 0,
 		"failPercentYear": 2017,
-		"url": "https://www.uio.no/studier/emner/matnat/ifi/IN1000/",
-		"description": "Progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge progge."
+		"url": "https://www.uio.no/studier/emner/hf/imv/MUS2006/index.html",
+		"description": "The course gives an introduction to the relationship between music and motion from different perspectives."
 	},
-	"IN1030": {
+	"KUN1000": {
+		"name": "Introduksjon til kunsthistorie",
+		"mandetoryExersices": "Ja",
+		"numberOfLecturesAWeek": 2,
+		"semester": "Høst",
+		"exam": "Semesteroppgave",
+		"failPercent": 3.8,
+		"failPercentYear": 2016,
+		"url": "https://www.uio.no/studier/emner/hf/ifikk/KUN1000/index.html",
+		"description": "Introduksjon til kunsthistorie er et innføringsemne til kunsthistoriefaget med vekt på verkanalyse. Emnet er verks- og monumentfokusert og enkeltverk fra norsk \nkunsthistorie danner utgangspunkt for trening i ulike former for visuell analyse og faglig drøfting."
+	},
+	"NOR1100": {
+		"name": "Norsk grammatikk",
 		"mandetoryExersices": "Ja",
 		"numberOfLecturesAWeek": 1,
-		"semester": "Høst",
+		"semester": "Vår og høst",
 		"exam": "Skriftlig eksamen",
-		"failPercent": 4,
+		"failPercent": 15,
+		"failPercentYear": 2018,
+		"url": "https://www.uio.no/studier/emner/hf/iln/NOR1100/",
+		"description": "Emnet tek føre seg hovuddraga i norsk grammatikk: fonologi, morfologi og syntaks. På emnet vert norsk grammatikk i nokon mon jamført med svensk og dansk."
+	},
+	"NOR2312": {
+		"name": "Sammensatte tekster i norskfaget",
+		"mandetoryExersices": "Ja",
+		"numberOfLecturesAWeek": 1,
+		"semester": "Vår",
+		"exam": "Skriftlig eksamen",
+		"failPercent": 14,
 		"failPercentYear": 2017,
-		"url": "https://www.uio.no/studier/emner/matnat/ifi/IN1030/",
-		"description": "Ikke progge ikke progge ikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke proggeikke progge."
+		"url": "https://www.uio.no/studier/emner/hf/iln/NOR2312/",
+		"description": "Emnet tar for seg adaptasjon, altså overføringen av en tekst fra ett medium til et annet, for eksempel fra bok til film eller fra muntlig møtesamtale til møtereferat. Emnet gir en innføring i multimodal teori og i metoder for å analysere samspillet mellom ulike modaliteter i en sammensatt tekst."
 	}
 }
